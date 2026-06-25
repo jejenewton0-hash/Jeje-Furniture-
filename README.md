@@ -1,12 +1,8 @@
-<img width="1350" height="558" alt="Screenshot 2026-06-25 144618" src="https://github.com/user-attachments/assets/f3de6c6a-0f1f-4be4-85ba-7eda747a0f4c" />
+
 # Jeje Furniture Store — E-Commerce Project
 
 ## Student Information
 - **Name:** Jeje Newton
-- **Project Type:** Individual Assignment
-- **Date Submitted:** June 2026
-
----
 
 ## Project Title
 Jeje Furniture Store — No-Code E-Commerce Application
